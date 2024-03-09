@@ -10,15 +10,21 @@
 
 # Các bước đóng gói ứng dụng:
 • Bước 1: Giải nén file.
+
 • Bước 2: Chỉnh sửa cấu hình.
+
 • Bước 3: Đưa thiết kế database dưới dạng lệnh vào trong gói cài đặt.
+
 • Bước 4: Tạo resource
+
 • Bước 5:Coppy resource
+
 • Bước 6: Chạy file buid.bat
 
 # Kiểm tra kết quả:
-• Bước 1: Mở trình duyệt chạy với địa chỉ: https://localhost và đăng 
-nhập với user/password
+• Bước 1: Mở trình duyệt chạy với địa chỉ: https://localhost và đăng nhập với user/password
+
 • Bước 2: Upload gói.
+
 • Bước 3: Upload thành công.
  
